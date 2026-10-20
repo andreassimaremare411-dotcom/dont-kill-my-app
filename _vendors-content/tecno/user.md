@@ -1,4 +1,4 @@
----
+android 11---
 manufacturer:
     - tecno
 
